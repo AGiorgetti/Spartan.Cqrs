@@ -1,4 +1,4 @@
 Spartan.Cqrs
 ============
 
-My CQRS playground
+Let's hope to show some muscles...
